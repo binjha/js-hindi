@@ -1,4 +1,4 @@
-"use strict";
+"use strict";//to use modern javascript modules and rules
 
 // alert(3+3)
 
