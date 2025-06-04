@@ -16,6 +16,8 @@ const user ={
 // console.log(this);
 
 function chai() {
+    console.log("binjha ");
+    
     console.log(this);
     
     
