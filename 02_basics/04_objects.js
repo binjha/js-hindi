@@ -46,9 +46,12 @@ const course={
 
 // course.courseInstructor
 
-const {courseInstructor:instructor}=course
+const {courseInstructor:instructor}=course//insted if this we can write this for clean code
+
 
 console.log(instructor);
+
+
 
 
 
